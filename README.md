@@ -1,8 +1,4 @@
 # Enterprise Network Firewall & IDS/IPS Lab
-
-**Owner:** [adityaG001](https://github.com/adityaG001)  
-**Status:** `Planned` — implementation and test evidence will be added as the lab is completed.
-
 A hands-on network security lab for designing segmented networks, administering firewall policies, configuring NAT, and monitoring traffic with Suricata.
 
 ## Objectives
